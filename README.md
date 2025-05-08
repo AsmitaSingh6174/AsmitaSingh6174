@@ -6,16 +6,12 @@ I'm a Web Developer, Student, and Artist who loves bringing ideas to life throug
 
 💻 What I Do
 
-Frontend & Backend Web Development (HTML, CSS, JavaScript, React, Node.js)
+Frontend & Backend Web Development (HTML, CSS, JavaScript, React, PHP, SQL,Node.js)
 
 UI/UX Design with a keen eye for aesthetics
 
 Exploring Web3, AI, and futuristic web technologies
 
-
-🌌 Current Project
-
-I'm currently working on a website about Yugas and the Vedic Universe, combining history, mythology, and technology to build an engaging platform.
 
 📂 Featured Projects
 
@@ -26,9 +22,9 @@ Portfolio Website – My personal portfolio showcasing my web development and ar
 Creative Web Experiments – Fun projects exploring animations, interactivity, and UI concepts.
 
 
-📫 Let's Connect
+📫 Let's connect 
 
-GitHub: github.com/AsmitaSingh6174
+LinkedIn: https://www.linkedin.com/in/asmita-singh-381803355?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 Email: asingh290704@gmail.com 
 
