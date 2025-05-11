@@ -6,20 +6,11 @@ I'm a Web Developer, Student, and Artist who loves bringing ideas to life throug
 
 💻 What I Do
 
-Frontend & Backend Web Development (HTML, CSS, JavaScript, React, PHP, SQL,Node.js)
+Frontend & Backend Web Development (HTML, CSS, JavaScript, PHP, SQL, {Node.js, React(only basics)})
 
 UI/UX Design with a keen eye for aesthetics
 
 Exploring Web3, AI, and futuristic web technologies
-
-
-📂 Featured Projects
-
-Vedic Universe Website – A deep dive into the cycles of time and ancient knowledge.
-
-Portfolio Website – My personal portfolio showcasing my web development and artistic work.
-
-Creative Web Experiments – Fun projects exploring animations, interactivity, and UI concepts.
 
 
 📫 Let's connect 
