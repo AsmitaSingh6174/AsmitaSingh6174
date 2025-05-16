@@ -15,7 +15,7 @@ Exploring Web3, AI, and futuristic web technologies
 
 📫 Let's connect 
 
-LinkedIn: https://www.linkedin.com/in/asmita-singh-381803355?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+LinkedIn: https://www.linkedin.com/in/asmita-singh-381803355
 
 Email: asingh290704@gmail.com 
 
